@@ -1,0 +1,8 @@
+{
+  "name": "Remix MEFOLABS TEAM",
+  "description": "MEFOLABS Contributor Portal \u0026 Open Positions — Build. Contribute. Grow Together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
